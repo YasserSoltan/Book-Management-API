@@ -24,7 +24,7 @@ A secure RESTful API for managing books with JWT authentication, role-based auth
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/book-management-api.git
+git clone https://github.com/YasserSoltan/Book-Management-API.git
 cd book-management-api
 
 # Install dependencies
